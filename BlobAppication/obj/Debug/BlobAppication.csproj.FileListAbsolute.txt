@@ -1,0 +1,15 @@
+F:\step\azure\dz1\BlobAppication\BlobAppication\obj\Debug\BlobAppication.csprojAssemblyReference.cache
+F:\step\azure\dz1\BlobAppication\BlobAppication\obj\Debug\BlobAppication.csproj.CoreCompileInputs.cache
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\BlobAppication.exe.config
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\BlobAppication.exe
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\BlobAppication.pdb
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Newtonsoft.Json.dll
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+F:\step\azure\dz1\BlobAppication\BlobAppication\bin\Debug\Newtonsoft.Json.xml
+F:\step\azure\dz1\BlobAppication\BlobAppication\obj\Debug\BlobAppication.csproj.CopyComplete
+F:\step\azure\dz1\BlobAppication\BlobAppication\obj\Debug\BlobAppication.exe
+F:\step\azure\dz1\BlobAppication\BlobAppication\obj\Debug\BlobAppication.pdb
